@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nasirfaizi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning DevOps
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate with the team of DevOps
 - 📫 How to reach me:faizinasir@yahoo.com
 
 <!---
