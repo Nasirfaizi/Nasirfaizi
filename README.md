@@ -1,4 +1,4 @@
-...................................................................![Masterhead](https://www.shutterstock.com/shutterstock/videos/1104892185/thumb/8.jpg?ip=x480)..................................................................
+![Masterhead](https://www.shutterstock.com/shutterstock/videos/1104892185/thumb/8.jpg?ip=x480)
 <h1 align="center">Hi 👋, I'm Nasir Faizi</h1>
 <h3 align="center">A passionate TPM</h3>
 <img align="right" alt="coding"400" src= https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
