@@ -8,14 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **IBT DevOps project**
+- 🔭 I’m currently working on a Creating Devops related tech resourses **IBT DevOps project**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning everything 🤣 **DevOps**
 
 - 👯 I’m looking to collaborate on **With DevOps Team**
 
 - 🤝 I’m looking for help with **py**
-
+-	⚡ Fun fact: I love to workout 
 - 📫 How to reach me **faizinasir@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
