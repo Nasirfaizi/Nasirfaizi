@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate **With DevOps Team**
 
-- 🤝 I’m looking for help with **py**
+- 🤝 I’m here to connect with DevOps
 -	⚡ Fun fact: I love to workout 
 - 📫 How to reach me **faizinasir@yahoo.com**
 
