@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning everything 🤣 **DevOps**
 
-- 👯 I’m looking to collaborate on **With DevOps Team**
+- 👯 I’m looking to collaborate **With DevOps Team**
 
 - 🤝 I’m looking for help with **py**
 -	⚡ Fun fact: I love to workout 
